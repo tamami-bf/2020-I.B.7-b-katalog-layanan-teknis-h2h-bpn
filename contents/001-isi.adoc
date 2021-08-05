@@ -1,0 +1,40 @@
+== Layanan Host-to-Host ATR/BPN
+
+image::by-sa.png[pdfwidth=25%]
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by-sa/4.0/.
+
+=== Nama Komponen Layanan Teknis/Pendukung
+
+Layanan _Host-to-Host_ BPHTB ke ATR/BPN
+
+=== Nama Layanan yang Didukung
+
+Layanan yang didukung oleh komponen ini adalah untuk kegiatan pendaftaran di ATR/BPN yang memastikan bahwa langkah verifikasi BPHTB sudah dipenuhi di Badan Pendapatan Daerah Kabupaten Brebes.
+
+=== Referensi SLA (_Service Level Agreement_) yang telah disetujui
+
+Referensi _Service Level Agreement_ (SLA) untuk layanan ini merujuk ke dokumen https://github.com/tamami-bf/2021-sla-layanan-teknis/blob/master/build/sla-layanan-ti.pdf
+
+=== Kemampuan Teknis Tingkat Layanan Saat Ini
+
+Belum ada pengukuran tingkat layanan untuk komponen layanan teknis / pendukung saat ini.
+
+=== Proses Penyediaan Layanan
+
+Proses penyediaan layanan ini dilakukan dengan dokumen Perjanjian Kerjasama antara Badan Pendapatan Daerah Kabupaten Brebes dengan ATR/BPN Brebes agar ATR/BPN dapat memeriksa hasil verifikasi BPHTB di Badan Pendapatan Daerah Kabupaten Brebes.
+
+=== Periode Kajian Terhadap Layanan dan Laporannya
+
+Periode kajian terhadap layanan dilakukan paling cepat setiap triwulan termasuk pembuatan laporannya.
+
+=== Versi dan Tanggal Revisi 
+
+[cols="2,3", width="75%"]
+|===
+| Versi | Tanggal
+
+| 1.0 | 11 Desember 2020
+|===
+
